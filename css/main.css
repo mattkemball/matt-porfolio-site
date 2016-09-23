@@ -41,9 +41,9 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  background-image: url("/Users/matthewkemball/Google Drive/graphic design 5/web dev/github/matt-porfolio-site/images/background.jpg");
-  background-size: 100%;
-
+  background-image: url("/Users/matthewkemball/Google Drive/graphic design 5/web dev/github/matt-porfolio-site/images/background-01.jpg");
+  background-size: 300%;
+  background-repeat: no-repeat;
 }
 
 h1 {
